@@ -18,7 +18,7 @@
 ## Motivation
 Create a collection of common used sample dist files for software development.
 
-## Categories
+## List of dist files
 
 - .gitignore.dist
 - phpunit.xml.dist
